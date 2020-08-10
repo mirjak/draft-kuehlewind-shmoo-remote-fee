@@ -53,13 +53,14 @@ With the recent move to full online meetings, however, there is no distinction b
 remote and other participants anymore which lead to the introduction of a meeting fee
 for all participants, removing the free remote option.
 
-This action lead to concerns about the impact on participation for previous remote-only
-participants as well as new participants that have taken this free option as opportunity to
-"sneak" in. For these participants even a small registration fee could be a barrier for participation.
+This change lead to concerns about the impact both on those who
+regularly remotely attend meetings, as well as people looking to
+attend IETF meetings for thhe first time.  In both cases, even a small
+registration fee can be a barrier to participation.
 
 # Principle of open participation
 
-This documents outlines the principle of open participation and sneaks community feedback in
+This documents outlines the principle of open participation and solicits community feedback in
 order to reach consensus on this or a similar principle that the IETF LLC can use to guide future
 decision about registration fees for full online meetings.
 
