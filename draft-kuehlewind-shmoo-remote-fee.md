@@ -42,10 +42,10 @@ into the in-room session and enables interactive participation by audio and vide
 Based on this evolution online participation has historically been free for remote attendees.
 
 Given this more full-blown participation option, the IETF observed an increasing number
-of remote participants in the recents year. This increase can be explained by an ease for new
-participants to join a meeting, or only selected parts of the meeting agenda, and also by 
+of remote participants in the recents year. This increase can be explained by the ease by which
+new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
 a less strongly perceived need to attend every meeting in person, either due to financial
-reason or other circumstances. In order to better understand
+reasons or other circumstances. In order to better understand
 these trends the IETF started requiring registration as "participant" (in contrast to 
 an "observer") for remote participation, still without any registration fee applied.
 
@@ -63,7 +63,7 @@ This documents outlines the principle of open participation and sneaks community
 order to reach consensus on this or a similar principle that the IETF LLC can use to guide future
 decision about registration fees for full online meetings.
 
-The principle this document states is simple: there must always also be an option for free
+The principle this document states is simple: there must always be an option for free
 participation to IETF meeting over the Internet.
 
 This principle aims to support the openness principle of the IETF as defined in {{!RFC3935}}:
@@ -88,8 +88,8 @@ Online meetings have lower costs than in-person meeting, however, they are not f
 any services that the IETF provides for other online interactions, such as mailing lists, document access over the datatracker or other online platforms, or Webex accounts for working groups and 
 other roles in the IETF.
 
-These and other running costs of the IETF are also cross-financed by income generated trough
-meeting fees. The intention of this document and the principle stated herein is not make participant
+These and other running costs of the IETF are also cross-financed by income generated through
+meeting fees. The intention of this document and the principle stated herein is not to make participation
 free for everyone but to always have a free option that can be used without any barriers other than
 the registration procedure itself.
 
