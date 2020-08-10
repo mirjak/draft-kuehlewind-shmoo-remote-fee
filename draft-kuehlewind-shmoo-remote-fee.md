@@ -20,7 +20,7 @@ author:
 
 
 normative:
-    rfc3935
+  RFC3935:
 
 
 informative:
@@ -66,7 +66,7 @@ decision about registration fees for full online meetings.
 The principle this document states is simple: there must always also be an option for free
 participation to IETF meeting over the Internet.
 
-This principle aims to support the openness principle of the IETF as defined in RFC3935:
+This principle aims to support the openness principle of the IETF as defined in {{!RFC3935}}:
 
 "Open process - any interested person can participate in the work,
    know what is being decided, and make his or her voice heard on the
