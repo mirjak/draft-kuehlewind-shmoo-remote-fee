@@ -26,9 +26,9 @@ author:
     
   -
     ins: R. Salz
-    name: Richard Salz
+    name: Rich Salz
     org: Akamai
-    email: richsalz@akamai.com
+    email: rsalz@akamai.com
 
 
 normative:
