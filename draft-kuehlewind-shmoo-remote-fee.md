@@ -55,7 +55,7 @@ for all participants, removing the free remote option.
 
 This change lead to concerns about the impact both on those who
 regularly remotely attend meetings, as well as people looking to
-attend IETF meetings for thhe first time.  In both cases, even a small
+attend IETF meetings for the first time.  In both cases, even a small
 registration fee can be a barrier to participation.
 
 # Principle of open participation
