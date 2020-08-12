@@ -36,13 +36,13 @@ principle as defined in RFC3935 stating that there must always be a free option 
 
 # Introduction
 
-Remote participation for IETF in-person meetings has evolved over time from email only
-to live chat and audio streaming up to a full online meeting system that is tightly integrated
-into the in-room session and enables interactive participation by audio and video.
-Based on this evolution online participation has historically been free for remote attendees.
+Remote participation for IETF in-person meetings has evolved over time from email-only
+to live chat and audio streaming, and eventually to a full online meeting system that is tightly integrated
+with the in-room session and enables interactive participation by audio and video.
+Due to this evolution, online participation has historically been free for remote attendees.
 
 Given this more full-blown participation option, the IETF observed an increasing number
-of remote participants in the recents year. This increase can be explained by the ease by which
+of remote participants in the recent year. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
 a less strongly perceived need to attend every meeting in person, either due to financial
 reasons or other circumstances. In order to better understand
@@ -53,14 +53,14 @@ With the recent move to full online meetings, however, there is no distinction b
 remote and other participants anymore which lead to the introduction of a meeting fee
 for all participants, removing the free remote option.
 
-This change lead to concerns about the impact both on those who
+This change led to concerns about the impact both on those who
 regularly remotely attend meetings, as well as people looking to
-attend IETF meetings for thhe first time.  In both cases, even a small
+attend IETF meetings for the first time.  In both cases, even a small
 registration fee can be a barrier to participation.
 
 # Principle of open participation
 
-This documents outlines the principle of open participation and solicits community feedback in
+This document outlines the principle of open participation and solicits community feedback in
 order to reach consensus on this or a similar principle that the IETF LLC can use to guide future
 decision about registration fees for full online meetings.
 
@@ -85,9 +85,11 @@ restrictions to the way of participating.
 
 # Financial impact
 
-Online meetings have lower costs than in-person meeting, however, they are not for free, nor are
-any services that the IETF provides for other online interactions, such as mailing lists, document access over the datatracker or other online platforms, or Webex accounts for working groups and 
-other roles in the IETF.
+Online meetings have lower costs than in-person meetings, however they
+still come with expenses, as do other services that the IETF provides
+such as mailing lists, document access over the datatracker or other
+online platforms, or Webex accounts for working groups and other roles
+in the IETF.
 
 These and other running costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
