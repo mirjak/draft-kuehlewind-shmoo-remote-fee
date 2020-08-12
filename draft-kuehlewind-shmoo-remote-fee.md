@@ -81,8 +81,10 @@ probably written with mainly having mailing interactions in mind when talking ab
 participation at meetings.
 
 In order to fully remove barriers to participation, any free
-registration option must be clearly documented on the meeting website
-and registration page.  If the free option requires additional
+registration option must offer the same degree of interactivity and
+functionality available to paid remote attendees.  The free option
+must be clearly and prominently listed on the meeting website and
+registration page.  If the free option requires additional
 registration steps, such as applying for a fee waiver, those
 requirements should be clearly documented.
 
