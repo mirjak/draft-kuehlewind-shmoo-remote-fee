@@ -65,7 +65,7 @@ order to reach consensus on this or a similar principle that the IETF LLC can us
 decision about registration fees for full online meetings.
 
 The principle this document states is simple: there must always be an option for free
-participation to IETF meeting over the Internet.
+remote participation in any IETF meeting, whether or not that meeting has a physical presence.
 
 This principle aims to support the openness principle of the IETF as defined in {{!RFC3935}}:
 
