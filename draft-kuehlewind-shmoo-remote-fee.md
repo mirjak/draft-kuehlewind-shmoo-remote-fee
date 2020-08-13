@@ -17,6 +17,18 @@ author:
     name: Mirja Kuehlewind
     org: Ericsson
     email: mirja.kuehlewind@ericsson.com
+    
+  -
+    ins: J. Reed
+    name: Jon Reed
+    org: Akamai
+    email: jreed@akamai.com
+    
+  -
+    ins: R. Salz
+    name: Rich Salz
+    org: Akamai
+    email: rsalz@akamai.com
 
 
 normative:
