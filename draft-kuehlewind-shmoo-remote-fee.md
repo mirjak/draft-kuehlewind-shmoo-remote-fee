@@ -65,7 +65,7 @@ order to reach consensus on this or a similar principle that the IETF LLC can us
 decision about registration fees for full online meetings.
 
 The principle this document states is simple: there must always be an option for free
-participation to IETF meeting over the Internet.
+remote participation in any IETF meeting, whether or not that meeting has a physical presence.
 
 This principle aims to support the openness principle of the IETF as defined in {{!RFC3935}}:
 
@@ -77,11 +77,16 @@ This principle aims to support the openness principle of the IETF as defined in 
    
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
 basically all our documents and documentation and making it accessible over the Internet, it was 
-probably written with mainly having mailing interactions in mind when talking about participation.
+probably written with mainly having mailing interactions in mind when talking about participation. This document extends this principle to explicitly cover online
+participation at meetings.
 
-This document extends this principle but explicitly covering online participation at meetings. As
-such when a meeting is run only online, there must be a free option to participant without any
-restrictions to the way of participating.
+In order to fully remove barriers to participation, any free
+registration option must offer the same degree of interactivity and
+functionality available to paid remote attendees.  The free option
+must be clearly and prominently listed on the meeting website and
+registration page.  If the free option requires additional
+registration steps, such as applying for a fee waiver, those
+requirements should be clearly documented.
 
 # Financial impact
 
