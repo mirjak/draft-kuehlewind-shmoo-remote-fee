@@ -42,19 +42,21 @@ informative:
 --- abstract
 
 This document proposes a principle for open participation that extends the open process
-principle as defined in RFC3935 stating that there must always be a free option for online participation to IETF meeting over the Internet.
+principle as defined in RFC3935 by stating that there must always be a free option for online
+participation to IETF meeting over the Internet.
 
 --- middle
 
 # Introduction
 
 Remote participation for IETF in-person meetings has evolved over time from email-only
-to live chat and audio streaming, and eventually to a full online meeting system that is tightly integrated
+to live chat and audio streaming, and, currently, to a full online meeting system that is tightly integrated
 with the in-room session and enables interactive participation by audio and video.
-Due to this evolution, online participation has historically been free for remote attendees.
+Due to this evolution, and because most participants paid in-person fees,
+online participation has historically been free for remote attendees.
 
-Given this more full-blown participation option, the IETF observed an increasing number
-of remote participants in the recent year. This increase can be explained by the ease with which
+Given this more full-blown participation option, the IETF has started to observed an increasing number
+of remote participants. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
 a less strongly perceived need to attend every meeting in person, either due to financial
 reasons or other circumstances. In order to better understand
@@ -88,8 +90,9 @@ This principle aims to support the openness principle of the IETF as defined in 
    meeting minutes publicly available on the Internet."
    
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
-basically all our documents and documentation and making it accessible over the Internet, it was 
-probably written with mainly having mailing interactions in mind when talking about participation. This document extends this principle to explicitly cover online
+basically all our documents and documentation and making them accessible over the Internet, it was
+probably written with mainly having email interactions in mind when talking about participation.
+This document extends this principle to explicitly cover online
 participation at meetings.
 
 In order to fully remove barriers to participation, any free
