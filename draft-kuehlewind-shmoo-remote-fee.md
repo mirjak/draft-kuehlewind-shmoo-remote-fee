@@ -120,6 +120,23 @@ It is not in scope for this document or the shmoo working group to make suggesti
 the IETF's overall funding model. This is the responsibility of the LLC Board taking agreed principles
 like the one proposed in this document into account.
 
+# Considerations on Use and Misuse of a Free Participation Option
+
+This document does not specify hard any requirements on when to use or not use the free option. The purpose of
+the free option is to enable everybody who is interested in participation to join meetings without the meeting
+fee imposing a financial barrier. These cases cannot be limited to a certain group, like students or "self-founded"
+participants, nor to any specific other restricts, like the number of meeting or previous level of involvement.
+The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
+
+It is expected that participants who have financial support to use the regular registration option 
+will do so. Information about which registration payment option was used should not be published on an individual
+basis, however, the ratio of paid vs. free participation may indicate if misuse of the free option occurs in
+future. If the number of paid registrations decreases this can however also have other reasons than misuse,
+such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
+savings and lesser focus on standardization work, or simply lost of business interest. These are risks that 
+can impact the sustainability of the IETF independent of the free registration option due to its
+dependency on meetings fees to cross finance other costs.
+
 
 # Acknowledgments
 
