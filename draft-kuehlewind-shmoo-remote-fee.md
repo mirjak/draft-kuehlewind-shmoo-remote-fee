@@ -125,7 +125,7 @@ like the one proposed in this document into account.
 This document does not specify specific requirements on when to use or not use the free option. The purpose of
 the free option is to enable everybody who is interested in participation to join meetings without the meeting
 fee imposing a financial barrier. These cases cannot be limited to a certain group, like students or "self-founded"
-participants, nor to any specific other restricts, like the number of meeting or previous level of involvement.
+participants, nor to any specific other restrictions like the number of meeting or previous level of involvement.
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
 It is expected that participants who have financial support to use the regular registration option 
@@ -139,4 +139,3 @@ dependency on meetings fees to cross finance other costs.
 
 
 # Acknowledgments
-
