@@ -129,9 +129,9 @@ participants, nor to any specific other restrictions like the number of meetings
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
 It is expected that participants who have financial support to use the regular registration option 
-will do so. Information about which registration payment option was used should not be published on an individual
-basis, however, the ratio of paid vs. free participation may indicate if misuse of the free option occurs in
-future. If the number of paid registrations decreases this can however also have other reasons than misuse,
+will do so. Aggregated data on the number and percentage of free registrations used should be published,
+as this will permit analysis the use and change in use over time  of the free registration option without
+revealing personal information. If the number of paid registrations decreases, this can however also have various reasons,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply lost of business interest. These are risks that 
 can impact the sustainability of the IETF independent of the free registration option due to its
