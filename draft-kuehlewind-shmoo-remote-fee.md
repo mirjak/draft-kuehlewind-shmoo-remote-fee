@@ -122,7 +122,7 @@ like the one proposed in this document into account.
 
 # Considerations on Use and Misuse of a Free Participation Option
 
-This document does not specify hard any requirements on when to use or not use the free option. The purpose of
+This document does not specify specific requirements on when to use or not use the free option. The purpose of
 the free option is to enable everybody who is interested in participation to join meetings without the meeting
 fee imposing a financial barrier. These cases cannot be limited to a certain group, like students or "self-founded"
 participants, nor to any specific other restricts, like the number of meeting or previous level of involvement.
@@ -139,5 +139,4 @@ dependency on meetings fees to cross finance other costs.
 
 
 # Acknowledgments
-
 
