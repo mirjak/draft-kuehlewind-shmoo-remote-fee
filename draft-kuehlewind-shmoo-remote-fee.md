@@ -52,8 +52,8 @@ participation to IETF meeting over the Internet.
 Remote participation for IETF in-person meetings has evolved over time from email-only
 to live chat and audio streaming, and, currently, to a full online meeting system that is tightly integrated
 with the in-room session and enables interactive participation by audio and video.
-Due to this evolution, and because most participants paid in-person fees,
-online participation has historically been free for remote attendees.
+Due to this evolution, and because most in-person attendees paid registration fees and this 
+has been sufficient to support the meeting, online participation has historically been free for remote attendees.
 
 Given this more full-blown participation option, the IETF has started to observed an increasing number
 of remote participants. This increase can be explained by the ease with which
@@ -89,6 +89,7 @@ This principle aims to support the openness principle of the IETF as defined in 
    documents, our WG mailing lists, our attendance lists, and our
    meeting minutes publicly available on the Internet."
    
+It should be noted that opennees as defined in {{!RFC3935}} should be seen as open and free. 
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
 basically all our documents and documentation and making them accessible over the Internet, it was
 probably written with mainly having email interactions in mind when talking about participation.
