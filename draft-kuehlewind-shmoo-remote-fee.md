@@ -130,10 +130,11 @@ participants, nor to any specific other restrictions like the number of meetings
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
 It is expected that participants who have financial support to use the regular registration option 
-will do. Paying a registration fee is way for their sponsor to support the sustainability of the IETF. Currently, e.g. even a higher late payment
-charge is available that can be used to maximise this financial support. However, this document does not comment on the actual payment structure
+will do. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
+For example, a higher late payment charge can be used to maximise this financial support. 
+However, this document does not comment on the actual payment structure 
 of the IETF meeting fee other than the requirement for a free option. The fee payment structure is set the by the LLC such that
-the viability of the IETF and the need of IETF participants to work productively wituin the IETF can be warranted.
+the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis the use and change in use over time of the free registration option without
