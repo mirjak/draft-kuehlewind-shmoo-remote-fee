@@ -75,8 +75,8 @@ registration fee can be a barrier to participation.
 # Principle of open participation
 
 This document outlines the principle of open participation and solicits community feedback in
-order to reach consensus on this or a similar principle that the IETF LLC can use to guide future
-decision about registration fees for full online meetings.
+order to reach consensus on this or a similar principle that the IETF Administration LLC (IETF LLC)
+can use to guide future decision about registration fees for full online meetings.
 
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting, whether or not that meeting has a physical presence.
@@ -106,11 +106,11 @@ requirements should be clearly documented.
 
 # Financial impact
 
-Online meetings have lower costs than in-person meetings, however they
+Online meetings have lower costs than in-person meetings, however, they
 still come with expenses, as do other services that the IETF provides
 such as mailing lists, document access over the datatracker or other
-online platforms, or Webex accounts for working groups and other roles
-in the IETF.
+online platforms, or support for videoconferencing, e.g with Webex accounts for working groups
+and other roles in the IETF.
 
 These and other running costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
@@ -118,22 +118,22 @@ free for everyone but to always have a free option that can be used without any 
 the registration procedure itself.
 
 It is not in scope for this document or the shmoo working group to make suggestions for changing
-the IETF's overall funding model. This is the responsibility of the LLC Board taking agreed principles
+the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
 
 # Considerations on Use and Misuse of a Free Participation Option
 
 This document does not provide specific requirements on when to use or not use the free option. The purpose of
 the free option is to enable everybody who is interested in participation to join meetings without the meeting
-fee imposing a financial barrier. These cases cannot be limited to a certain group, like students or "self-founded"
+fee imposing a financial barrier. These cases cannot be limited to a certain group, like students or "self-funded"
 participants, nor to any specific other restrictions like the number of meetings previously attended or previous level of involvement.
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
 It is expected that participants who have financial support to use the regular registration option 
-will do. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
+will do so. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
 For example, a higher late payment charge can be used to maximise this financial support. 
 However, this document does not comment on the actual payment structure 
-of the IETF meeting fee other than the requirement for a free option. The fee payment structure is set the by the LLC such that
+of the IETF meeting fee other than the requirement for a free option. The fee payment structure is set the by the IETF LLC such that
 the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
 Aggregated data on the number and percentage of free registrations used should be published,
