@@ -104,6 +104,16 @@ registration page.  If the free option requires additional
 registration steps, such as applying for a fee waiver, those
 requirements should be clearly documented.
 
+Similarly as the principle on "open process" as specified in {{!RFC3935}}, the principle
+as defined in this document on openness in online participation is intended to make sure
+that "any interested person can participate in the work" {{!RFC3935}}. As such the principle
+defined in this document should not only be seen as only applicable to working group
+sessions or other official sessions on the online meeting agenda but also to other online events
+that support the community in getting work done productively. Most such events like
+the hackathon or interim meetings currently do not have a fee, even though there might be
+a separate registration. However, the principle in this document should be seen broad enough
+to also apply to future events or in case the fee structure of existing events changes.
+
 # Financial impact
 
 Online meetings have lower costs than in-person meetings, however, they
