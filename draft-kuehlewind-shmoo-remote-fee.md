@@ -65,7 +65,8 @@ an "observer") for remote participation, still without any registration fee appl
 
 With the recent move to fully online meetings, however, there is no longer a distinction
 between remote and on-site participants. Since costs still have to be covered, there is
-the need for a meeting fee for remote participants, which risks the removal of the free remote option.
+the need for a meeting fee for remote participants, which risks the removal of the free
+remote option.
 
 This change led to concerns about the impact both on those who
 regularly remotely attend meetings, as well as people looking to
