@@ -1,7 +1,7 @@
 ---
 title: Open Participation Principle regarding Remote Registration Fee
 abbrev: Open Participation Principle
-docname: draft-kuehlewind-shmoo-remote-fee-latest
+docname: draft-ietf-shmoo-remote-fee-latest
 date:
 category: bcp
 
