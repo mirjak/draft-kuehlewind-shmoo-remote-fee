@@ -82,7 +82,11 @@ can use to guide future decision about registration fees for full online meeting
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting or related event, whether or not that meeting has a physical presence.
 
-This principle aims to support the openness principle of the IETF as defined in {{!RFC3935}}:
+The principle this document states is simple: there must always be an option for free
+remote participation in any IETF meeting and related events that are part of the IETF's
+open process {{!RFC3935}}, whether or not that meeting has a physical presence.
+
+This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
 "Open process - any interested person can participate in the work,
    know what is being decided, and make his or her voice heard on the
