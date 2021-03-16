@@ -116,7 +116,8 @@ and other roles in the IETF.
 These and other running costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
 free for everyone but to always have a free option that can be used without any barriers other than
-the registration procedure itself.
+the registration procedure itself. As long as there are still enough paying participants to cover
+the base costs, additional participant can effectively be added with adding expenses.
 
 It is not in scope for this document or the shmoo working group to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
@@ -138,12 +139,15 @@ of the IETF meeting fee other than the requirement for a free option. The fee pa
 the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
 Aggregated data on the number and percentage of free registrations used should be published,
-as this will permit analysis the use and change in use over time of the free registration option without
-revealing personal information. If the number of paid registrations decreases, this can however also have various reasons,
+as this will permit analysis of the use and change in use over time of the free registration option without
+revealing personal information. However, as long as the number of paid registrations stays stable and retains
+the projected needed income, an increase in use of free registrations should not necessarily be taken as a
+sign of misuse but rather a sign of increased interest and success for the open participation principle.
+If the number of paid registrations, however, decreases, this can still also have various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply lost of business interest. These are risks that 
 can impact the sustainability of the IETF independent of the free registration option due to its
-dependency on meetings fees to cross finance other costs.
+dependency on meetings fees to cross finance other costs. 
 
 
 # Acknowledgments
