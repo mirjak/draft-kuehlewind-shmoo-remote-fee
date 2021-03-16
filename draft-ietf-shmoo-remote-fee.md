@@ -97,7 +97,14 @@ probably written with mainly having email interactions in mind when talking abou
 This document extends this principle to explicitly cover online
 participation at meetings.
 
-In order to fully remove barriers to participation, any free
+However, this document does not automatically advise that all kind of IETF meetings and events
+must also have a remote participation option, as there could be technical or other reasons why that
+might not always be possible. This document rather says that if remote participation is provided,
+there should always be a free option that makes the process as open as possible. Having said that,
+it is of course strongly anticipated that at least all sessions of the main agenda of an IETF
+plenary meeting provide an option for remote participation.
+
+Future, in order to fully remove barriers to participation, any free
 registration option must offer the same degree of interactivity and
 functionality available to paid remote attendees.  The free option
 must be clearly and prominently listed on the meeting website and
