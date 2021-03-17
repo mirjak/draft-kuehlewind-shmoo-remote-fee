@@ -147,7 +147,7 @@ If the number of paid registrations, however, decreases, this can still also hav
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply lost of business interest. These are risks that 
 can impact the sustainability of the IETF independent of the free registration option due to its
-dependency on meetings fees to cross finance other costs. 
+dependency on meetings fees to cross-finance other costs.
 
 
 # Acknowledgments
