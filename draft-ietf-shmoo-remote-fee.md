@@ -97,9 +97,9 @@ probably written with mainly having email interactions in mind when talking abou
 This document extends this principle to explicitly cover online
 participation at meetings.
 
-However, this document does not automatically advise that all kind of IETF meetings and events
-must also have a remote participation option, as there could be technical or other reasons why that
-might not always be possible. This document rather says that if remote participation is provided,
+This document does not advise that all IETF meetings or events must have a remote participation item,
+because there could be technical or other reasons why that might not always be possible.
+This document rather says that if remote participation is provided,
 there should always be a free option that makes the process as open as possible. Having said that,
 it is of course strongly anticipated that at least all sessions of the main agenda of an IETF
 plenary meeting provide an option for remote participation.
