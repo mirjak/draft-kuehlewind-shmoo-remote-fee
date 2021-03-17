@@ -42,7 +42,7 @@ informative:
 --- abstract
 
 This document proposes a principle for open participation that extends the open process
-principle as defined in RFC3935 by stating that there must always be a free option for online
+principle defined in RFC3935 by stating that there must always be a free option for online
 participation to IETF meetings over the Internet.
 
 --- middle
@@ -64,14 +64,14 @@ these trends the IETF started requiring registration as "participant" (in contra
 an "observer") for remote participation, still without any registration fee applied.
 
 With the recent move to fully online meetings, however, there is no longer a distinction
-between remote and on-site participants. Since costs still have to be covered, there is
+between remote and on-site participants. Since IETF meeting costs and other costs still have to be covered, there is
 the need for a meeting fee for remote participants, which risks the removal of the free
 remote option.
 
-This change led to concerns about the impact both on those who
-regularly remotely attend meetings, as well as people looking to
-attend IETF meetings for the first time.  In both cases, even a small
-registration fee can be a barrier to participation.
+This possibility raised concerns about the potential impact both on those who
+regularly remotely attend IETF meetings, as well as people considering 
+attending an IETF meeting for the first time, of the effects of IETF meeting fees.  In both cases, even a small
+registration fee could potentially be a barrier to participation for some people.
 
 # Principle of open participation
 
