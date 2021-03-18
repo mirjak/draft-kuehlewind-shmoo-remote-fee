@@ -117,7 +117,7 @@ These and other running costs of the IETF are also cross-financed by income gene
 meeting fees. The intention of this document and the principle stated herein is not to make participation
 free for everyone but to always have a free option that can be used without any barriers other than
 the registration procedure itself. As long as there are still enough paying participants to cover
-the base costs, additional participant can effectively be added with adding expenses.
+the base costs, additional participant can effectively be added without increasing expenses.
 
 It is not in scope for this document or the shmoo working group to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
