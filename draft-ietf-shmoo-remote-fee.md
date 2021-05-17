@@ -137,6 +137,8 @@ However, this document does not comment on the actual payment structure
 of the IETF meeting fee other than the requirement for a free option. The fee payment structure is set the by the IETF LLC such that
 the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
+The LLC is responsible to ensure the financial stability of the IETF and therefore should monitor
+trends in the use of the free participation option that could endanger the viability of the IETF.
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis the use and change in use over time of the free registration option without
 revealing personal information. If the number of paid registrations decreases, this can however also have various reasons,
