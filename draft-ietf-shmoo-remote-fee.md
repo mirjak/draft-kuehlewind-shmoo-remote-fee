@@ -113,7 +113,7 @@ registration page.  If the free option requires additional
 registration steps, such as applying for a fee waiver, those
 requirements should be clearly documented.
 
-# Financial impact
+# Financial Impact
 
 Online meetings have lower costs than in-person meetings, however, they
 still come with expenses, as do other services that the IETF provides
@@ -121,13 +121,13 @@ such as mailing lists, document access over the datatracker or other
 online platforms, or support for videoconferencing, e.g with Webex accounts for working groups
 and other roles in the IETF.
 
-These and other running costs of the IETF are also cross-financed by income generated through
+These and other operating costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
 free for everyone but to always have a free option that can be used without any barriers other than
 the registration procedure itself. As long as there are still enough paying participants to cover
 the base costs, additional participant can effectively be added without increasing expenses.
 
-It is not in scope for this document or the shmoo working group to make suggestions for changing
+It is not in scope for this document or the SHMOO working group to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
 
