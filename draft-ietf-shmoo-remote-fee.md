@@ -123,13 +123,20 @@ and other roles in the IETF.
 
 These and other operating costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
-free for everyone but to always have a free option that can be used without any barriers other than
-the registration procedure itself. As long as there are still enough paying participants to cover
-the base costs, additional participant can effectively be added without increasing expenses.
+free for everyone but to always have a free option that a potential
+attendee can apply for without any barriers other than
+the registration procedure itself.
+Note that as long as the meeting costs are otherwise funded,
+additional remote participants can usually be added without increasing expenses.
 
 It is not in scope for this document or the SHMOO working group to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
+Of course, part of this responsibility can include putting a limitation on the amount
+of free participation.
+One possible reason for doing so is the concern that unlimited free remote
+participation might adversely affect the number of paying participants.
+
 
 # Considerations on Use and Misuse of a Free Participation Option
 
@@ -147,7 +154,7 @@ of the IETF meeting fee other than the requirement for a free option. The fee pa
 the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
 The LLC is responsible to ensure the financial stability of the IETF and therefore should monitor
-trends in the use of the free participation option that could endanger the viability of the IETF.
+trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, limit their use.
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis of the use and change in use over time of the free registration option without
 revealing personal information. However, as long as the number of paid registrations stays stable and retains
@@ -155,7 +162,7 @@ the projected needed income, an increase in use of free registrations should not
 sign of misuse but rather a sign of increased interest and success for the open participation principle.
 If the number of paid registrations, however, decreases, this can still also have various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
-savings and lesser focus on standardization work, or simply lost of business interest. These are risks that 
+savings and lesser focus on standardization work, or simply loss of business interest. These are risks that
 can impact the sustainability of the IETF independent of the free registration option due to its
 dependency on meetings fees to cross-finance other costs.
 
