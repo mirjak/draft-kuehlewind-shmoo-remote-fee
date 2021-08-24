@@ -41,7 +41,7 @@ informative:
 
 --- abstract
 
-This document proposes a principle for open participation that extends the open process
+This document outlines a principle for open participation that extends the open process
 principle defined in RFC3935 by stating that there must always be a free option for online
 participation to IETF meetings (or related events) over the Internet.
 
