@@ -55,7 +55,7 @@ with the in-room session and enables interactive participation by audio and vide
 Due to this evolution, and because most in-person attendees paid registration fees and this 
 has been sufficient to support the meeting, online participation has historically been free for remote attendees.
 
-Given this more full-blown participation option, the IETF has started to observed an increasing number
+Given this more full-blown participation option, the IETF has started seen an increasing number
 of remote participants. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
 a less strongly perceived need to attend every meeting in person, either due to financial
@@ -81,7 +81,7 @@ can use to guide future decision about registration fees for full online meeting
 
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting and related events that are part of the IETF's
-open process {{!RFC3935}}, whether or not that meeting has a physical presence.
+open process {{!RFC3935}}, regardless of whether the meeting has a physical presence.
 
 This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
@@ -91,21 +91,21 @@ This principle aims to support the openness principle of the IETF as defined in 
    documents, our WG mailing lists, our attendance lists, and our
    meeting minutes publicly available on the Internet."
    
-It should be noted that opennees as defined in {{!RFC3935}} should be seen as open and free. 
+It should be noted that openness as defined in {{!RFC3935}} should be seen as open and free. 
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
 basically all our documents and documentation and making them accessible over the Internet, it was
 probably written with mainly having email interactions in mind when talking about participation.
 This document extends this principle to explicitly cover online
 participation at meetings.
 
-This document does not advise that all IETF meetings or events must have a remote participation item,
+This document does not advise that all IETF meetings or events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
 This document rather says that if remote participation is provided,
-there should always be a free option that makes the process as open as possible. Having said that,
+there should always be a free option to make the process as open as possible. Having said that,
 it is of course strongly anticipated that at least all sessions of the main agenda of an IETF
 plenary meeting provide an option for remote participation.
 
-Future, in order to fully remove barriers to participation, any free
+Further, in order to fully remove barriers to participation, any free
 registration option must offer the same degree of interactivity and
 functionality available to paid remote attendees.  The free option
 must be clearly and prominently listed on the meeting website and
@@ -115,10 +115,10 @@ requirements should be clearly documented.
 
 # Financial Impact
 
-Online meetings have lower costs than in-person meetings, however, they
+Online meetings can have lower costs than in-person meetings, however, they
 still come with expenses, as do other services that the IETF provides
-such as mailing lists, document access over the datatracker or other
-online platforms, or support for videoconferencing, e.g with Webex accounts for working groups
+such as mailing lists, document access via the datatracker or other
+online platforms, or support for videoconferencing, e.g., with Webex accounts for working groups
 and other roles in the IETF.
 
 These and other operating costs of the IETF are also cross-financed by income generated through
@@ -164,4 +164,4 @@ dependency on meetings fees to cross-finance other costs.
 
 Thanks to everybody involved in the shmoo working group discussion,
 esepcially Brian Carpenter, Jason Livingood, and Charles Eckel for
-proposing concrete improvements and and their in-depth reviews.
+proposing concrete improvements and their in-depth reviews.
