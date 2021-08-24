@@ -151,7 +151,7 @@ Aggregated data on the number and percentage of free registrations used should b
 as this will permit analysis of the use and change in use over time of the free registration option without
 revealing personal information.
 
-As the principle defined in this document aims to promote openess and thereby enhance participation,
+As the principle defined in this document aims to promote openness and thereby enhance participation,
 an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
 sign of misuse, as long as the number of paid registrations stays stable and retains
 the projected needed income. If the number of paid registrations, however, decreases,
