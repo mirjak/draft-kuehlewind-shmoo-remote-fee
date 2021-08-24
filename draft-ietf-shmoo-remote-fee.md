@@ -101,8 +101,8 @@ This document does not advise that all IETF meetings or related IETF events must
 because there could be technical or other reasons why that might not always be possible.
 This document rather says that if remote participation is provided,
 there should always be a free option to make the process as open as possible. Having said that,
-it is of course strongly anticipated that at least all working group sessions, as well as BoFs
-and the adminstrative plenary of an IETF meeting provide an option for remote participation.
+it is of course strongly anticipated that at least all working group sessions as well as BoFs
+and the administrative plenary of an IETF meeting provide an option for remote participation.
 
 Further, in order to fully remove barriers to participation, any free
 registration option must offer the same degree of interactivity and
