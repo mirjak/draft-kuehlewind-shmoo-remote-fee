@@ -76,7 +76,7 @@ registration fee can be a barrier to participation.
 # Principle of open participation
 
 This document outlines the principle of open participation that the IETF Administration LLC (IETF LLC)
-is expected to incorporate in decisions about registration fees for full online meetings.
+is expected to incorporate into decisions about the registration fee structure for fully online meetings.
 
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting and related events that are part of the IETF's
@@ -96,7 +96,7 @@ probably written with mainly having email interactions in mind when talking abou
 This document extends this principle to explicitly cover online
 participation at meetings. Particularly in this context, openness should be seen as open and free. 
 
-This document does not advise that all IETF meetings or related IETF events must have a remote participation option,
+This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
 This document rather says that if remote participation is provided,
 there should always be a free option to make the process as open as possible. Having said that,
@@ -125,8 +125,7 @@ free for everyone but to always have a free option that can be used without any 
 the registration procedure itself. As long as there are still enough paying participants to cover
 the base costs, additional participant can effectively be added without increasing expenses.
 
-This document is a product of the SHMOO working group and based on the charter work of this group
-it is not in scope for this document to make suggestions for changing
+It is not in scope for this document to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
 
@@ -158,8 +157,8 @@ the projected needed income. If the number of paid registrations, however, decre
 this can still also have various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply lost of business interest. Such trends
-can impact the sustainability of the IETF option due to its
-dependency on meetings fees to cross-finance other costs bit are independent of use of the free registrations.
+can impact the sustainability of the IETF due to its
+current dependency on meeting revenue, independent of use of the free registrations.
 
 
 # Acknowledgments
