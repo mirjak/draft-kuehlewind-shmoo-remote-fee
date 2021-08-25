@@ -126,8 +126,8 @@ meeting fees. The intention of this document and the principle stated herein is 
 free for everyone, but to always offer a free remote participation option that a potential
 attendee can apply for without any barriers other than
 the registration procedure itself.
-Note that as long as the meeting costs are otherwise funded,
-additional remote participants can usually be added without increasing expenses.
+As long as the overall meeting expenses are covered by paid registrations, sponsorships and other sources of revenue,
+additional remote participants usually impose very low additional expenses.
 
 It is not in scope for this document or the SHMOO working group to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
