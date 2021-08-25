@@ -80,10 +80,10 @@ order to reach consensus on this or a similar principle that the IETF Administra
 can use to guide future decision about registration fees for full online meetings.
 
 The principle this document states is simple: there must always be an option for free
-remote participation in any IETF meeting,
-whether or not that meeting has a physical presence.
-Related events that are part of the IETF's open process {{!RFC3935}},
-such as hackathons, are encouraged to follow this principle as well.
+remote participation in any fully online  IETF meeting, as defined in {{!RFC8719}}.
+Related events, any component of a fully online meeting for which the IETF
+provides remote participation services,
+are encouraged to follow this principle as well.
 
 This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
