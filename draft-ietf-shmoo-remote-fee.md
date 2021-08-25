@@ -132,13 +132,13 @@ additional remote participants usually impose very low additional expenses.
 It is not in scope for this document or the SHMOO working group to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
-If free remote participation is determined to adversely affect the number of paying participants
+If unlimited free remote participation is determined to adversely affect the number of paying participants
 or the cost of free participation emerges to a signification factor,
-the LLC might implement additional measures to limit the amount of free registrations.
-If the LLC decides to do this, they should make their decision and rationale known.
-Note that, as discussed in the next section, assessment of eligibility is hard and a general limit
-on the number of available free registrations can impact
-eligible people unfairly and therefore impact openness negatively.
+the LLC might implement additional measures to manage these costs.
+If the LLC decides to do this, they should make their decision and rationale known to the community.
+As discussed in the next section, assessment of eligibility is difficult and any limit
+on the number of available free registrations can cause unfairness and
+negatively impact openness.
 
 
 # Considerations on Use and Misuse of a Free Participation Option
