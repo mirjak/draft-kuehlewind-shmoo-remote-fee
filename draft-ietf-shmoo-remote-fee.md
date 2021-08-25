@@ -123,7 +123,7 @@ and other roles in the IETF.
 
 These and other operating costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
-free for everyone but to always have a free option that a potential
+free for everyone, but to always offer a free remote participation option that a potential
 attendee can apply for without any barriers other than
 the registration procedure itself.
 Note that as long as the meeting costs are otherwise funded,
