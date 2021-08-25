@@ -157,7 +157,7 @@ of the IETF meeting fee other than the requirement for a free option. The fee pa
 the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
 The LLC is responsible to ensure the financial stability of the IETF and therefore should monitor
-trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, limit their use.
+trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, manage the associated costs.
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis of the use and change in use over time of the free registration option without
 revealing personal information. However, as long as the number of paid registrations stays stable and retains
