@@ -43,7 +43,7 @@ informative:
 
 This document outlines a principle for open participation that extends the open process
 principle defined in RFC3935 by stating that there must always be a free option for online
-participation to IETF meetings (or related events) over the Internet.
+participation to IETF meetings and, if possible, related IETF-hosted events over the Internet.
 
 --- middle
 
@@ -79,8 +79,9 @@ This document outlines the principle of open participation that the IETF Adminis
 is expected to incorporate into decisions about the registration fee structure for fully online meetings.
 
 The principle this document states is simple: there must always be an option for free
-remote participation in any IETF meeting and related events that are part of the IETF's
-open process {{!RFC3935}}, regardless of whether the meeting has a physical presence.
+remote participation in any IETF meeting, regardless of whether the meeting has a physical presence.
+Related events of a meeting for which the IETF provides remote participation services
+and are therefore part of the IETF's open process {{!RFC3935}} are encouraged to follow this principle as well.
 
 This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
