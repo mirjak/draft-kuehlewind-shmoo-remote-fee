@@ -41,9 +41,9 @@ informative:
 
 --- abstract
 
-This document proposes a principle for open participation that extends the open process
+This document outlines a principle for open participation that extends the open process
 principle defined in RFC3935 by stating that there must always be a free option for online
-participation to IETF meetings, and if possible related IETF-hosted events over the Internet.
+participation to IETF meetings and, if possible, related IETF-hosted events over the Internet.
 
 --- middle
 
@@ -75,15 +75,13 @@ registration fee can be a barrier to participation.
 
 # Principle of open participation
 
-This document outlines the principle of open participation and solicits community feedback in
-order to reach consensus on this or a similar principle that the IETF Administration LLC (IETF LLC)
-can use to guide future decision about registration fees for full online meetings.
+This document outlines the principle of open participation that the IETF Administration LLC (IETF LLC)
+is expected to incorporate into decisions about the registration fee structure for fully online meetings.
 
 The principle this document states is simple: there must always be an option for free
 remote participation in any fully online  IETF meeting, as defined in {{!RFC8719}}.
-Related events, any component of a fully online meeting for which the IETF
-provides remote participation services,
-are encouraged to follow this principle as well.
+Related events of a fully online meeting for which the IETF provides remote participation services
+and are therefore part of the IETF's open process {{!RFC3935}} are encouraged to follow this principle as well.
 
 This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
@@ -93,19 +91,18 @@ This principle aims to support the openness principle of the IETF as defined in 
    documents, our WG mailing lists, our attendance lists, and our
    meeting minutes publicly available on the Internet."
    
-It should be noted that openness as defined in {{!RFC3935}} should be seen as open and free. 
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
 basically all our documents and documentation and making them accessible over the Internet, it was
 probably written with mainly having email interactions in mind when talking about participation.
 This document extends this principle to explicitly cover online
-participation at meetings.
+participation at meetings. Particularly in this context, openness should be seen as open and free. 
 
-This document does not advise that all IETF meetings or events must have a remote participation option,
+This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
 This document rather says that if remote participation is provided,
 there should always be a free option to make the process as open as possible. Having said that,
-it is of course strongly anticipated that at least all sessions of the main agenda of an IETF
-plenary meeting provide an option for remote participation.
+it is of course strongly anticipated that at least all working group sessions as well as BoFs
+and the administrative plenary of an IETF meeting provide an option for remote participation.
 
 Further, in order to fully remove barriers to participation, any free
 registration option must offer the same degree of interactivity and
@@ -125,13 +122,23 @@ and other roles in the IETF.
 
 These and other operating costs of the IETF are also cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
-free for everyone but to always have a free option that can be used without any barriers other than
-the registration procedure itself. As long as there are still enough paying participants to cover
-the base costs, additional participant can effectively be added without increasing expenses.
+free for everyone, but to always offer a free remote participation option that a potential
+attendee can apply for without any barriers other than
+the registration procedure itself.
+As long as the overall meeting expenses are covered by paid registrations, sponsorships and other sources of revenue,
+additional remote participants usually impose very low additional expenses.
 
-It is not in scope for this document or the SHMOO working group to make suggestions for changing
+It is not in scope for this document to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
+If unlimited free remote participation is determined to adversely affect the number of paying participants
+or the cost of free participation emerges to a signification factor,
+the LLC might implement additional measures to manage these costs.
+If the LLC decides to do this, they should make their decision and rationale known to the community.
+As discussed in the next section, assessment of eligibility is difficult and any limit
+on the number of available free registrations can cause unfairness and
+negatively impact openness.
+
 
 # Considerations on Use and Misuse of a Free Participation Option
 
@@ -149,17 +156,20 @@ of the IETF meeting fee other than the requirement for a free option. The fee pa
 the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
 
 The LLC is responsible to ensure the financial stability of the IETF and therefore should monitor
-trends in the use of the free participation option that could endanger the viability of the IETF.
+trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, manage the associated costs.
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis of the use and change in use over time of the free registration option without
-revealing personal information. However, as long as the number of paid registrations stays stable and retains
-the projected needed income, an increase in use of free registrations should not necessarily be taken as a
-sign of misuse but rather a sign of increased interest and success for the open participation principle.
-If the number of paid registrations, however, decreases, this can still also have various reasons other than misuse,
+revealing personal information.
+
+As the principle defined in this document aims to promote openness and thereby enhance participation,
+an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
+sign of misuse, as long as the number of paid registrations stays stable and retains
+the projected needed income. If the number of paid registrations, however, decreases,
+this can still also have various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
-savings and lesser focus on standardization work, or simply lost of business interest. These are risks that 
-can impact the sustainability of the IETF independent of the free registration option due to its
-dependency on meetings fees to cross-finance other costs.
+savings and lesser focus on standardization work, or simply lost of business interest. Such trends
+can impact the sustainability of the IETF due to its
+dependency on meetings fees to cross-finance other costs, independent of use of the free registrations.
 
 
 # Acknowledgments
