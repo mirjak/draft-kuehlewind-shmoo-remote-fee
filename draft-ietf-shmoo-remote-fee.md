@@ -175,5 +175,5 @@ dependency on meetings fees to cross-finance other costs, independent of use of 
 # Acknowledgments
 
 Thanks to everybody involved in the shmoo working group discussion,
-esepcially Brian Carpenter, Jason Livingood, and Charles Eckel for
+esepcially Brian Carpenter, Jason Livingood, Lars Eggert, and Charles Eckel for
 proposing concrete improvements and their in-depth reviews.
