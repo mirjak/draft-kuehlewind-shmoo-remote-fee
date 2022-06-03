@@ -50,7 +50,7 @@ participation to IETF meetings and, if possible, related IETF-hosted events over
 # Introduction
 
 Remote participation for IETF in-person meetings has evolved over time from email-only
-to live chat and audio streaming, and, currently, to a full online meeting system that is tightly integrated
+to live chat and audio streaming, and, subsequently, to a full online meeting system that is tightly integrated
 with the in-room session and enables interactive participation by audio and video.
 Due to this evolution, and because most in-person attendees paid registration fees and this 
 has been sufficient to support the meeting, online participation has historically been free for remote attendees.
@@ -63,8 +63,8 @@ reasons or other circumstances. In order to better understand
 these trends the IETF started requiring registration as "participant" (in contrast to 
 an "observer") for remote participation, still without any registration fee applied.
 
-With the recent move to fully online meetings, however, there is no longer a distinction
-between remote and on-site participants. Since IETF meeting costs and other costs still have to be covered, there is
+With the move to fully online meetings in 2020, however, there is no longer a distinction
+between remote and on-site participants. Since IETF meeting costs and other costs still had to be covered, there was
 the need for a meeting fee for remote participants, which risks the removal of the free
 remote option.
 
