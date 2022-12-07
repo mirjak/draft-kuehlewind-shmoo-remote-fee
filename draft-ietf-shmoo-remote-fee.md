@@ -171,6 +171,14 @@ savings and lesser focus on standardization work, or simply lost of business int
 can impact the sustainability of the IETF due to its
 dependency on meetings fees to cross-finance other costs, independent of use of the free registrations.
 
+# Security Considerations
+
+This document introduces no new concerns for the security of Internet
+protocols.
+
+# IANA Considerations
+
+This document has no IANA actions.
 
 # Acknowledgments
 
