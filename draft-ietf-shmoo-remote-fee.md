@@ -13,8 +13,8 @@ pi: [sortrefs, symrefs]
 
 author:
   -
-    ins: M. Kuehlewind
-    name: Mirja Kuehlewind
+    ins: M. Kühlewind
+    name: Mirja Kühlewind
     org: Ericsson
     email: mirja.kuehlewind@ericsson.com
     
