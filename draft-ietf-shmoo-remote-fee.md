@@ -80,8 +80,8 @@ is expected to incorporate into decisions about the registration fee structure f
 
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting, regardless of whether the meeting has a physical presence.
-Related events of a meeting for which the IETF provides remote participation services
-and are therefore part of the IETF's open process {{!RFC3935}} are encouraged to follow this principle as well.
+Related events collocated with an IETF meeting are part of the IETF's open process [RFC3935] and
+are encouraged to follow this principle as well, f they offer remote participation at all.
 
 This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
