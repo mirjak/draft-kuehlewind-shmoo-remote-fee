@@ -99,7 +99,7 @@ participation at meetings. Particularly in this context, openness should be seen
 
 This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
-This document rather stats that if remote participation is provided,
+This document rather states that if remote participation is provided,
 there should always be a free option to make the process as open as possible. Having said that,
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
 and the administrative plenary of an IETF meeting provide an option for remote participation.
