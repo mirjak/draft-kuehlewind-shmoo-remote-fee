@@ -52,24 +52,24 @@ participation to IETF meetings and, if possible, related IETF-hosted events over
 Remote participation for IETF in-person meetings has evolved over time from email-only
 to live chat and audio streaming, and, subsequently, to a full online meeting system that is tightly integrated
 with the in-room session and enables interactive participation by audio and video.
-Due to this evolution, and because most in-person attendees paid registration fees and this 
-has been sufficient to support the meeting, online participation has historically been free for remote attendees.
+Online participation has historically been free for remote attendees.
 
-Given this more full-blown participation option, the IETF has started seen an increasing number
+Given this more full-blown participation option, the IETF has started seeing an increasing number
 of remote participants. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
 a less strongly perceived need to attend every meeting in person, either due to financial
 reasons or other circumstances. In order to better understand
-these trends the IETF started requiring registration as "participant" (in contrast to 
+these trends, the IETF started requiring registration as "participant" (in contrast to 
 an "observer") for remote participation, still without any registration fee applied.
 
-With the move to fully online meetings in 2020, however, there is no longer a distinction
-between remote and on-site participants. Since IETF meeting costs and other costs still had to be covered, there was
-the need for a meeting fee for remote participants, which risks the removal of the free
-remote option.
+With the move to fully online meetings in 2020, however, there was no longer a distinction
+between remote and on-site participants. Since IETF meeting costs and
+other costs still had to be recovered, a meeting fee was charged for
+remote participants, eliminating the free remote participation
+option (for a time).
 
 The introduction of a fee for remote participation raised concerns about the potential impact on both, those who
-regularly remotely attend IETF meetings as well as people considering 
+regularly remotely attend IETF meetings and those people considering 
 attending an IETF meeting for the first time. In both cases, even a small
 registration fee can be a barrier to participation.
 
@@ -92,14 +92,14 @@ This principle aims to support the openness principle of the IETF as defined in 
    meeting minutes publicly available on the Internet."
    
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
-basically all our documents and documentation and making them accessible over the Internet, it was
+basically all our documents and material and to make them accessible over the Internet, it was
 probably written with mainly having email interactions in mind when talking about participation.
 This document extends this principle to explicitly cover online
 participation at meetings. Particularly in this context, openness should be seen as open and free. 
 
 This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
-This document rather says that if remote participation is provided,
+This document rather stats that if remote participation is provided,
 there should always be a free option to make the process as open as possible. Having said that,
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
 and the administrative plenary of an IETF meeting provide an option for remote participation.
@@ -115,12 +115,11 @@ requirements should be clearly documented.
 # Financial Impact
 
 Online meetings can have lower costs than in-person meetings, however, they
-still come with expenses, as do other services that the IETF provides
+still incur expenses, as do other services that the IETF provides,
 such as mailing lists, document access via the datatracker or other
-online platforms, or support for videoconferencing, e.g., with Webex accounts for working groups
-and other roles in the IETF.
+online platforms, or support for videoconferencing, e.g., use of Meetecho.
 
-These and other operating costs of the IETF are also cross-financed by income generated through
+These and other operating costs of the IETF are partially cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
 free for everyone, but to always offer a free remote participation option that a potential
 attendee can apply for without any barriers other than
@@ -132,7 +131,7 @@ It is not in scope for this document to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
 like the one proposed in this document into account.
 If unlimited free remote participation is determined to adversely affect the number of paying participants
-or the cost of free participation emerges to a signification factor,
+or the cost of free participation emerges to be a signification factor,
 the LLC might implement additional measures to manage these costs.
 If the LLC decides to do this, they should make their decision and rationale known to the community.
 As discussed in the next section, assessment of eligibility is difficult and any limit
@@ -148,7 +147,7 @@ fee imposing a financial barrier. These cases cannot be limited to a certain gro
 participants, nor to any specific other restrictions like the number of meetings previously attended or previous level of involvement.
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
-It is expected that participants who have financial support to use the regular registration option 
+It is expected that participants who have financial support to use the paid regular registration option 
 will do so. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
 For example, a higher late payment charge can be used to maximise this financial support. 
 However, this document does not comment on the actual payment structure 
@@ -164,8 +163,8 @@ revealing personal information.
 As the principle defined in this document aims to promote openness and thereby enhance participation,
 an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
 sign of misuse, as long as the number of paid registrations stays stable and retains
-the projected needed income. If the number of paid registrations, however, decreases,
-this can still also have various reasons other than misuse,
+the projected needed income. If the number of paid registrations decreases, however,
+this can be due to various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply lost of business interest. Such trends
 can impact the sustainability of the IETF due to its
