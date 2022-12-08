@@ -93,7 +93,7 @@ This principle aims to support the openness principle of the IETF as defined in 
    
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
 basically all our documents and material and to make them accessible over the Internet, it was
-probably written with mainly having email interactions in mind when talking about participation.
+written with mainly having email interactions in mind when talking about participation.
 This document extends this principle to explicitly cover online
 participation at meetings. Particularly in this context, openness should be seen as open and free. 
 
