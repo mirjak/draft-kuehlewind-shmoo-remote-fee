@@ -121,9 +121,8 @@ online platforms, or support for videoconferencing, e.g., use of Meetecho.
 
 These and other operating costs of the IETF are partially cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
-free for everyone, but to always offer a free remote participation option that a potential
-attendee can apply for without any barriers other than
-the registration procedure itself.
+free for everyone, but to always offer a free remote option that enables remote participation without
+any barriers other than the application for the free registration itself.
 As long as the overall meeting expenses are covered by paid registrations, sponsorships and other sources of revenue,
 additional remote participants usually impose very low additional expenses.
 
