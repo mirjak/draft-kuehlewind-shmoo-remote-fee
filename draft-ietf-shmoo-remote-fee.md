@@ -115,9 +115,9 @@ requirements should be clearly documented.
 # Financial Impact
 
 Online meetings can have lower costs than in-person meetings, however, they
-still incur expenses, as do other services that the IETF provides,
-such as mailing lists, document access via the datatracker or other
-online platforms, or support for videoconferencing, e.g., use of Meetecho.
+still incur expenses, as do other services that the IETF provides.
+This includes items such as mailing lists, document access via the datatracker or other
+online platforms, and support for videoconferencing, like  use of Meetecho and others.
 
 These and other operating costs of the IETF are partially cross-financed by income generated through
 meeting fees. The intention of this document and the principle stated herein is not to make participation
