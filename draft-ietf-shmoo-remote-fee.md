@@ -63,8 +63,9 @@ reasons or other circumstances. In order to better understand
 these trends the IETF started requiring registration as "participant" (in contrast to 
 an "observer") for remote participation, still without any registration fee applied.
 
-With the move to fully online meetings in 2020, however, there is no longer a distinction
-between remote and on-site participants. Since IETF meeting costs and other costs still had to be covered, there was
+With the move to fully online meetings in 2020 and 2021, however, there was no longer a
+distinction between remote and on-site participants for those meetings.
+Since IETF meeting costs and other costs still had to be covered, there was
 the need for a meeting fee for remote participants, which risks the removal of the free
 remote option.
 
