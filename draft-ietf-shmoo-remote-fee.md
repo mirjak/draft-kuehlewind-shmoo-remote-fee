@@ -91,7 +91,7 @@ This principle aims to support the openness principle of the IETF as defined in 
    documents, our WG mailing lists, our attendance lists, and our
    meeting minutes publicly available on the Internet."
    
-While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
+While RFC3935 explicitly notes that this principle includes a requirement to open 
 basically all our documents and material and to make them accessible over the Internet, it was
 written with mainly having email interactions in mind when talking about participation.
 This document extends this principle to explicitly cover online
@@ -103,6 +103,9 @@ This document rather states that if remote participation is provided,
 there should always be a free option to make the process as open as possible. Having said that,
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
 and the administrative plenary of an IETF meeting provide an option for remote participation.
+Stated another way, this document defines a *principle* and leaves the
+*mechanism* of it to those with fiscal, and related, resopnsibilities
+such as the IETF LLC.
 
 Further, in order to fully remove barriers to participation, any free
 registration option must offer the same degree of interactivity and
