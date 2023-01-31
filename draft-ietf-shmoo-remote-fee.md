@@ -128,7 +128,7 @@ additional remote participants usually impose very low additional expenses.
 
 It is not in scope for this document to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
-like the one proposed in this document into account.
+like the one described in this document into account.
 If unlimited free remote participation is determined to adversely affect the number of paying participants
 or the cost of free participation emerges to be a signification factor,
 the LLC might implement additional measures to manage these costs.
