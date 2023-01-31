@@ -52,7 +52,7 @@ participation to IETF meetings and, if possible, related IETF-hosted events over
 Remote participation for IETF in-person meetings has evolved over time from email-only
 to live chat and audio streaming, and, subsequently, to a full online meeting system that is tightly integrated
 with the in-room session and enables interactive participation by audio and video.
-Online participation has historically been free for remote attendees.
+Remote participation has historically been free for remote attendees.
 
 Given this more full-blown participation option, the IETF has started seeing an increasing number
 of remote participants. This increase can be explained by the ease with which
@@ -81,7 +81,7 @@ is expected to incorporate into decisions about the registration fee structure f
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting, regardless of whether the meeting has a physical presence.
 Related events collocated with an IETF meeting are part of the IETF's open process [RFC3935] and
-are encouraged to follow this principle as well, f they offer remote participation at all.
+are encouraged to follow this principle as well, if they offer remote participation at all.
 
 This principle aims to support the openness principle of the IETF as defined in {{RFC3935}}:
 
@@ -94,7 +94,7 @@ This principle aims to support the openness principle of the IETF as defined in 
 While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
 basically all our documents and material and to make them accessible over the Internet, it was
 written with mainly having email interactions in mind when talking about participation.
-This document extends this principle to explicitly cover online
+This document extends this principle to explicitly cover remote
 participation at meetings. Particularly in this context, openness should be seen as open and free. 
 
 This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
