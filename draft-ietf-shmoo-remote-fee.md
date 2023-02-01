@@ -140,7 +140,8 @@ negatively impact openness.
 
 # Considerations on Use and Misuse of a Free Participation Option
 
-This document does not provide specific requirements on when to use or not use the free option. The purpose of
+This document does not provide specific requirements on when it is appropriate
+for an IETF community member to use or not use the free option to remotely attend a meeting. The purpose of
 the free option is to enable everybody who is interested in participation to join meetings without the meeting
 fee imposing a financial barrier. These cases cannot be limited to a certain group, like students or "self-funded"
 participants, nor to any specific other restrictions like the number of meetings previously attended or previous level of involvement.
