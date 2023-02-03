@@ -132,7 +132,8 @@ like the one proposed in this document into account.
 If unlimited free remote participation is determined to adversely affect the number of paying participants
 or the cost of free participation emerges to be a signification factor,
 the LLC might implement additional measures to manage these costs.
-If the LLC decides to do this, they should make their decision and rationale known to the community.
+If the LLC decides to do this, they should make their decision as well as rationale known to the community
+and describe the implemented process in sufficient detail for participants to make an informed decsion about the use of the free option.
 As discussed in the next section, assessment of eligibility is difficult and any limit
 on the number of available free registrations can cause unfairness and
 negatively impact openness.
@@ -157,7 +158,9 @@ The LLC is responsible to ensure the financial stability of the IETF and therefo
 trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, manage the associated costs.
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis of the use and change in use over time of the free registration option without
-revealing personal information.
+revealing personal information. Particularly to avoid any potential negative implications on inclusivity,
+any personal information that is collected with respect to the use of the free remote participation option
+must be held confidential.
 
 As the principle defined in this document aims to promote openness and thereby enhance participation,
 an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
