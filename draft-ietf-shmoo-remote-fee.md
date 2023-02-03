@@ -114,17 +114,19 @@ requirements should be clearly documented.
 
 # Financial Impact
 
-Online meetings can have lower costs than in-person meetings, however, they
-still incur expenses, as do other services that the IETF provides.
+Fully online meetings as well as remote participation incur expenses, as do other services that the IETF provides.
 This includes items such as mailing lists, document access via the datatracker or other
-online platforms, and support for videoconferencing, like  use of Meetecho and others.
-
-These and other operating costs of the IETF are partially cross-financed by income generated through
-meeting fees. The intention of this document and the principle stated herein is not to make participation
+online platforms, as well as support for videoconferencing, like use of Meetecho and others.
+Meeting fees are a way to distribute these and other operating costs of the IETF among participants,
+even though they do not fully offset the costs of either holding the meeting or operating the IETF.
+As such, the intention of this document and the principle stated herein is not to make remote participation
 free for everyone, but to always offer a free remote option that enables remote participation without
-any barriers other than the application for the free registration itself.
-As long as the overall meeting expenses are covered by paid registrations, sponsorships and other sources of revenue,
-additional remote participants usually impose very low additional expenses.
+any barriers other than the application for the free registration itself for those where the registration fee
+is a barrier for participation.
+Such a free registration option is feasible for remote participation, 
+as long as the overall meeting expenses are covered by paid registrations, sponsorships and other sources of revenue,
+as the additional costs for remote participation do not strongly scale with the number of remote attendees.
+This is different for in-person participation and therefore not in scope for this document.
 
 It is not in scope for this document to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
@@ -161,8 +163,8 @@ revealing personal information.
 
 As the principle defined in this document aims to promote openness and thereby enhance participation,
 an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
-sign of misuse, as long as the number of paid registrations stays stable and retains
-the projected needed income. If the number of paid registrations decreases, however,
+sign of misuse, specifically as long as the number of paid registrations stays reasonably stable.
+If the number of paid registrations decreases, however,
 this can be due to various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply lost of business interest. Such trends
