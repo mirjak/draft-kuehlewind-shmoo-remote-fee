@@ -147,7 +147,9 @@ As discussed in the next section, assessment of eligibility is difficult and con
 on the number of available free registrations, which likely requires an assessment of eligibility,
 can cause unfairness and
 negatively impact openness which should be considered seriously in any LLC decision.
-This document cannot provide guidance on appropriate measures as any measures need to be adapted to the specific problem in a specific situation in order to minimise both the financial risk as well as its impact on openness and inclusivity.
+This document cannot provide guidance on appropriate measures as any measures need to
+be adapted to the specific problem in a specific situation in order to minimise both the
+financial risk as well as its impact on openness and inclusivity.
 
 
 # Considerations on Use and Misuse of a Free Participation Option
