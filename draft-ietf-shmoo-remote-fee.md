@@ -91,7 +91,7 @@ This principle aims to support the openness principle of the IETF as defined in 
    documents, our WG mailing lists, our attendance lists, and our
    meeting minutes publicly available on the Internet."
    
-While the principle in RFC3935 is explicitly noting that this principle includes a requirement to open 
+While RFC3935 explicitly notes that this principle includes a requirement to open 
 basically all our documents and material and to make them accessible over the Internet, it was
 written with mainly having email interactions in mind when talking about participation.
 This document extends this principle to explicitly cover remote
