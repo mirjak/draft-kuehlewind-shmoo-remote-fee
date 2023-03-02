@@ -57,7 +57,7 @@ Online participation has historically been free for remote attendees.
 Given this more full-blown participation option, the IETF has started seeing an increasing number
 of remote participants. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
-a less strongly perceived need to attend every meeting in person, either due to financial
+a less strongly perceived need to attend every meeting in person, due to either financial
 reasons or other circumstances. In order to better understand
 these trends, the IETF started requiring registration as "participant" (in contrast to 
 an "observer") for remote participation, still without any registration fee applied.
@@ -165,7 +165,7 @@ sign of misuse, as long as the number of paid registrations stays stable and ret
 the projected needed income. If the number of paid registrations decreases, however,
 this can be due to various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
-savings and lesser focus on standardization work, or simply lost of business interest. Such trends
+savings and lesser focus on standardization work, or simply loss of business interest. Such trends
 can impact the sustainability of the IETF due to its
 dependency on meetings fees to cross-finance other costs, independent of use of the free registrations.
 
