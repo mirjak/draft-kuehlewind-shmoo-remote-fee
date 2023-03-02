@@ -123,10 +123,9 @@ As such, the intention of this document and the principle stated herein is not t
 free for everyone, but to always offer a free remote option that enables remote participation without
 any barriers other than the application for the free registration itself for those where the registration fee
 is a barrier for participation.
-Such a free registration option is feasible for remote participation, 
-as long as the overall meeting expenses are covered by paid registrations, sponsorships and other sources of revenue,
-as the additional costs for remote participation do not strongly scale with the number of remote attendees.
-This is different for in-person participation and therefore not in scope for this document.
+This principle applies to remote participation only, providing thereby one free option for participation.
+In-person participation is not in scope for this document as the costs considerations 
+are broader than just the registration fee.
 
 It is not in scope for this document to make suggestions for changing
 the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
