@@ -59,8 +59,7 @@ of remote participants. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
 a less strongly perceived need to attend every meeting in person, due to either financial
 reasons or other circumstances. In order to better understand
-these trends, the IETF started requiring registration as "participant" (in contrast to 
-an "observer") for remote participation, still without any registration fee applied.
+these trends, the IETF started requiring registration for remote participation, still without any registration fee applied.
 
 With the move to fully online meetings in 2020 and 2021, however, there was no longer a
 distinction between remote and on-site participants for those meetings.
