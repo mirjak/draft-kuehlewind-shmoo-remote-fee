@@ -110,7 +110,10 @@ functionality available to paid remote attendees.  The free option
 must be clearly and prominently listed on the meeting website and
 registration page.  If the free option requires additional
 registration steps, such as applying for a fee waiver, those
-requirements should be clearly documented.
+requirements should be clearly documented. Particularly, to avoid any
+potential negative implications on inclusivity, any personal
+information that is collected with respect to the use of the free
+remote participation option must be held confidential.
 
 # Financial Impact
 
@@ -158,9 +161,7 @@ The LLC is responsible to ensure the financial stability of the IETF and therefo
 trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, manage the associated costs.
 Aggregated data on the number and percentage of free registrations used should be published,
 as this will permit analysis of the use and change in use over time of the free registration option without
-revealing personal information. Particularly to avoid any potential negative implications on inclusivity,
-any personal information that is collected with respect to the use of the free remote participation option
-must be held confidential.
+revealing personal information. 
 
 As the principle defined in this document aims to promote openness and thereby enhance participation,
 an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
