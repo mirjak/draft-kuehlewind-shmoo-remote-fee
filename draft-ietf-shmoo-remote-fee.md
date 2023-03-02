@@ -76,7 +76,7 @@ registration fee can be a barrier to participation.
 # Principle of Open Participation
 
 This document outlines the principle of open participation that the IETF Administration LLC (IETF LLC)
-is expected to incorporate into decisions about the registration fee structure for fully online meetings.
+is expected to incorporate into decisions about the registration fee structure for remote participation.
 
 The principle this document states is simple: there must always be an option for free
 remote participation in any IETF meeting, regardless of whether the meeting has a physical presence.
