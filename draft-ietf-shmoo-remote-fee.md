@@ -103,9 +103,19 @@ there should always be a free option to make the process as open as possible. Ha
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
 and the administrative plenary of an IETF meeting provide an option for remote participation.
 
-Further, in order to fully remove barriers to participation, any free
+Moreover, in order to fully remove barriers to participation, any free
 registration option must offer the same degree of interactivity and
-functionality available to paid remote attendees.  The free option
+functionality available to paid remote participants. Specifically, it must not
+be possible to identify participants that used the free option. However,
+of course this does not mean that all services must be provided for free to
+participants using the free registration option, but only those services
+that are provided as part of the regular registration. Offering additional
+services to a subset or all participants at an additional charge is still possible,
+e.g. if special needs are required. However, to promote inclusivity,
+it should also be considered if those services can also be offered without
+charge for those in need and who cannot afford the fee.
+
+Further, the free option
 must be clearly and prominently listed on the meeting website and
 registration page.  If the free option requires additional
 registration steps, such as applying for a fee waiver, those
