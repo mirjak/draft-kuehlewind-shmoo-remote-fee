@@ -139,16 +139,34 @@ As long as the overall meeting expenses are covered by paid registrations, spons
 additional remote participants usually impose very low additional expenses.
 
 It is not in scope for this document to make suggestions for changing
-the IETF's overall funding model. This is the responsibility of the IETF LLC Board taking agreed principles
-like the one described in this document into account.
-If unlimited free remote participation is determined to adversely affect the number of paying participants
+the IETF's fee structure or overall funding model. As defined in the RFC871
+it is the IETF LLC’s responsibility to manage IETF’s finances and budget and
+as such “[t]he IETF LLC is expected to act responsibly so as to minimize risks
+to IETF participants and to the future of the IETF as a whole, such as financial
+risks.” Further, it is the responsibility of the IETF LLC Board  "to act
+consistently with the documented consensus of the IETF community" {{?RFC871}},
+as such taking agreed principles like the one proposed in this document into account.
+
+If unlimited free remote participation is determined to adversely affect 
+financial sustainability of the IETF e.g. if the number of paying participants
 or the cost of free participation emerges to be a signification factor,
-the LLC might implement additional measures to manage these costs.
-If the LLC decides to do this, they should make their decision as well as rationale known to the community
-and describe the implemented process in sufficient detail for participants to make an informed decsion about the use of the free option.
-As discussed in the next section, assessment of eligibility is difficult and any limit
-on the number of available free registrations can cause unfairness and
-negatively impact openness.
+the LLC might is expected to implement additional measures to manage these costs.
+This document does not and cannot restrict the LLC in its financial responsibility
+and therefore does not impose any limitation on the use of appropriate measures.
+If the LLC decides to do this, they should make their decision and rationale known to the community
+and consider community consultation as specified in Section 4.4 of RFC8711
+in oder “to obtain consensus-based community input on key issues”. 
+Further, they should describe the implemented process in sufficient detail for
+participants to make an informed decsion about the use of the free option.
+
+As discussed in the next section, assessment of eligibility is difficult and consequently any limit
+on the number of available free registrations, which likely requires an assessment of eligibility,
+can cause unfairness and negatively impact openness which should be considered seriously in any LLC decision.
+As such, this document defines the principle of free participation but leaves
+room for choices in the implementation. Specifically, it cannot provide
+guidance on appropriate measures against misuse as any measures need to
+be adapted to the specific problem in a specific situation in order to minimise both the
+financial risk as well as its impact on openness and inclusivity.
 
 
 # Considerations on Use and Misuse of a Free Participation Option
