@@ -151,7 +151,7 @@ taking agreed principles like the one proposed in this document into account.
 If unlimited free remote participation is determined to adversely affect 
 financial sustainability of the IETF e.g. if the number of paying participants
 or the cost of free participation emerges to be a signification factor,
-the LLC might is expected to implement additional measures to manage these costs.
+the LLC is expected to implement additional measures to manage these costs.
 This document does not and cannot restrict the LLC in its financial responsibility
 and therefore does not impose any limitation on the use of appropriate measures.
 If the LLC decides to do this, they should make their decision and rationale known to the community
@@ -164,7 +164,7 @@ As discussed in the next section, assessment of eligibility is difficult and con
 on the number of available free registrations, which likely requires an assessment of eligibility,
 can cause unfairness and negatively impact openness which should be considered seriously in any LLC decision.
 As such, this document defines the principle of free participation but leaves
-room for choices in the implementation. Specifically, it cannot provide
+room for choices in the implementation by the LLC. Specifically, it cannot provide
 guidance on appropriate measures against misuse as any measures need to
 be adapted to the specific problem in a specific situation in order to minimise both the
 financial risk as well as its impact on openness and inclusivity.
