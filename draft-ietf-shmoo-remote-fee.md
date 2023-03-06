@@ -158,11 +158,11 @@ and consider community consultation as specified in Section 4.4 of RFC8711
 in oder “to obtain consensus-based community input on key issues”. 
 Further, they should describe the implemented process in sufficient detail for
 participants to make an informed decsion about the use of the free option.
+
 As discussed in the next section, assessment of eligibility is difficult and consequently any limit
 on the number of available free registrations, which likely requires an assessment of eligibility,
-can cause unfairness and
-negatively impact openness which should be considered seriously in any LLC decision.
-This document defines the principle of free participation but leaves
+can cause unfairness and negatively impact openness which should be considered seriously in any LLC decision.
+As such, this document defines the principle of free participation but leaves
 room for choices in the implementation. Specifically, it cannot provide
 guidance on appropriate measures against misuse as any measures need to
 be adapted to the specific problem in a specific situation in order to minimise both the
