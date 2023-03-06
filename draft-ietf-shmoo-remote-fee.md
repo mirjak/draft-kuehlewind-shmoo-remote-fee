@@ -146,7 +146,7 @@ as such “[t]he IETF LLC is expected to act responsibly so as to minimize risks
 to IETF participants and to the future of the IETF as a whole, such as financial
 risks.” Further, it is the responsibility of the IETF LLC Board  "to act
 consistently with the documented consensus of the IETF community" {{?RFC871}},
-as such taking agreed principles like the one proposed in this document into account.
+taking agreed principles like the one proposed in this document into account.
 
 If unlimited free remote participation is determined to adversely affect 
 financial sustainability of the IETF e.g. if the number of paying participants
