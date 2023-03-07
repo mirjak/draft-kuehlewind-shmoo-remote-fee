@@ -122,7 +122,7 @@ registration steps, such as applying for a fee waiver, those
 requirements should be clearly documented. Particularly, to avoid any
 potential negative implications on inclusivity, any personal
 information that is collected with respect to the use of the free
-remote participation option must be held confidential.
+remote participation option must be kept confidential.
 
 # Financial Impact
 
@@ -150,7 +150,7 @@ taking agreed principles like the one proposed in this document into account.
 
 If unlimited free remote participation is determined to adversely affect 
 financial sustainability of the IETF e.g. if the number of paying participants
-or the cost of free participation emerges to be a signification factor,
+or the cost of free participation emerges to be a significant factor,
 the LLC is expected to implement additional measures to manage these costs.
 This document does not and cannot restrict the LLC in its financial responsibility
 and therefore does not impose any limitation on the use of appropriate measures.
@@ -183,8 +183,8 @@ It is expected that participants who have financial support to use the paid regu
 will do so. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
 For example, a higher late payment charge can be used to maximise this financial support. 
 However, this document does not comment on the actual payment structure 
-of the IETF meeting fee other than the requirement for a free option. The fee payment structure is set the by the IETF LLC such that
-the viability of the IETF and the need of IETF participants to work productively within the IETF can be warranted.
+of the IETF meeting fee other than the requirement for a free option. The fee payment structure is set by the IETF LLC such that
+the viability of the IETF and the ability of IETF participants to work productively within the IETF can be ensured.
 
 The LLC is responsible to ensure the financial stability of the IETF and therefore should monitor
 trends in the use of the free participation option that could endanger the viability of the IETF and, if necessary, manage the associated costs.
