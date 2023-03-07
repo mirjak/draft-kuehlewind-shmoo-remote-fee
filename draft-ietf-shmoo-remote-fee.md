@@ -140,7 +140,7 @@ In-person participation is not in scope for this document as the costs considera
 are broader than just the registration fee.
 
 It is not in scope for this document to make suggestions for changing
-the IETF's fee structure or overall funding model. As defined in the RFC871
+the IETF's fee structure or overall funding model. As defined in the RFC8711
 it is the IETF LLC’s responsibility to manage IETF’s finances and budget and
 as such “[t]he IETF LLC is expected to act responsibly so as to minimize risks
 to IETF participants and to the future of the IETF as a whole, such as financial
