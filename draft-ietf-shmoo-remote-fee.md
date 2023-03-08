@@ -1,5 +1,5 @@
 ---
-title: Open Participation Principle regarding Remote Registration Fee
+title: Open Participation Principle and Remote Participation Fees
 abbrev: Open Participation Principle
 docname: draft-ietf-shmoo-remote-fee-latest
 date:
