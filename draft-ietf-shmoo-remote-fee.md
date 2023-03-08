@@ -67,10 +67,9 @@ Since IETF meeting costs and other costs still had to be covered, a meeting fee 
 remote participants, eliminating the free remote participation
 option (for a time).
 
-The introduction of a fee for remote participation raised concerns about the potential impact on both, those who
+The introduction of a fee for remote participation raised concerns about the potential impact on those who
 regularly remotely attend IETF meetings and those people considering 
-attending an IETF meeting for the first time. In both cases, even a small
-registration fee can be a barrier to participation.
+attending an IETF meeting for the first time. However, the meeting registration numbers have remained at consistent and expected levels, so this concern was not proven out in experience. 
 
 # Principle of Open Participation
 
