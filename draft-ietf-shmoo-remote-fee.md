@@ -24,12 +24,6 @@ author:
     org: Akamai
     email: jreed@akamai.com
     
-  -
-    ins: R. Salz
-    name: Rich Salz
-    org: Akamai
-    email: rsalz@akamai.com
-
 
 normative:
   RFC3935:
@@ -215,4 +209,5 @@ This document has no IANA actions.
 
 Thanks to everybody involved in the shmoo working group discussion,
 esepcially Brian Carpenter, Jason Livingood, Lars Eggert, and Charles Eckel for
-proposing concrete improvements and their in-depth reviews.
+proposing concrete improvements and their in-depth reviews, and to
+former co-author Rich Salz.
