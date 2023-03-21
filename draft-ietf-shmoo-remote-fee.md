@@ -199,8 +199,8 @@ If the number of paid registrations decreases, however,
 this can be due to various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply loss of business interest. Such trends
-can impact the sustainability of the IETF due to its
-dependency on meetings fees to cross-finance other costs, independent of use of the free registrations.
+can impact the income of the IETF and therefore need to be considered by
+the LLC anyway, independent of the risk of misuse of the free remote registrations.
 
 # Security Considerations
 
