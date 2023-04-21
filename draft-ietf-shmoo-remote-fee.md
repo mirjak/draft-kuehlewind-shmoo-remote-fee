@@ -179,7 +179,7 @@ fee imposing a financial barrier. These cases cannot be limited to a certain gro
 participants, nor to any specific other restrictions like the number of meetings previously attended or previous level of involvement.
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
-It is expected that participants who have financial support to use the paid regular registration option 
+It is expected that participants who have the financial resources or external support to use the paid regular registration option 
 will do so. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
 For example, a higher late payment charge can be used to maximise this financial support. 
 However, this document does not comment on the actual payment structure 
