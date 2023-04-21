@@ -65,7 +65,7 @@ With the move to fully online meetings in 2020 and 2021, however, there was no l
 distinction between remote and on-site participants for those meetings.
 Since IETF meeting costs and other costs still had to be covered, a meeting fee was charged for
 remote participants, eliminating the free remote participation
-option (for a time).
+option at that time.
 
 The introduction of a fee for remote participation raised concerns about the potential impact on both, those who
 regularly remotely attend IETF meetings and those people considering 
