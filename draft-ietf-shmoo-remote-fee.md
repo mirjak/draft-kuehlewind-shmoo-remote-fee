@@ -195,7 +195,7 @@ revealing personal information.
 As the principle defined in this document aims to promote openness and thereby enhance participation,
 an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
 sign of misuse, and should not be linked to the number of paid registrations.
-In particular the number of paid may registrations decreases
+In particular the number of paid registrations may decrease
 due to various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply loss of business interest. Such trends
