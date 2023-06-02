@@ -145,7 +145,7 @@ it is the IETF LLC’s responsibility to manage IETF’s finances and budget and
 as such “[t]he IETF LLC is expected to act responsibly so as to minimize risks
 to IETF participants and to the future of the IETF as a whole, such as financial
 risks.” Further, it is the responsibility of the IETF LLC Board  "to act
-consistently with the documented consensus of the IETF community" {{?RFC871}},
+consistently with the documented consensus of the IETF community" {{?RFC8711}},
 taking agreed principles like the one proposed in this document into account.
 
 If unlimited free remote participation is determined to adversely affect 
