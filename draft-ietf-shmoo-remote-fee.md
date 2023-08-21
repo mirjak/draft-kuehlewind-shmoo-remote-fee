@@ -64,8 +64,7 @@ these trends, the IETF started requiring registration for remote participation, 
 With the move to fully online meetings in 2020 and 2021, however, there was no longer a
 distinction between remote and on-site participants for those meetings.
 Since IETF meeting costs and other costs still had to be covered, a meeting fee was charged for
-remote participants, eliminating the free remote participation
-option at that time.
+remote participants, replacing the free participation that was previously available for all remote attendees.
 
 The introduction of a fee for remote participation raised concerns about the potential impact on both, those who
 regularly remotely attend IETF meetings and those people considering 
