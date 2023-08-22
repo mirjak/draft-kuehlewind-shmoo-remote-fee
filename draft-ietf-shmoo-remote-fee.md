@@ -214,5 +214,5 @@ This document has no IANA actions.
 # Acknowledgments
 
 Thanks to everybody involved in the shmoo working group discussion,
-esepcially Brian Carpenter, Jason Livingood, Lars Eggert, and Charles Eckel for
+especially Brian Carpenter, Jason Livingood, Lars Eggert, and Charles Eckel for
 proposing concrete improvements and their in-depth reviews.
