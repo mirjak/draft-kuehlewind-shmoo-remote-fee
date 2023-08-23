@@ -57,8 +57,9 @@ Remote participation has historically been free for remote attendees.
 Given this more full-blown participation option, the IETF has started seeing an increasing number
 of remote participants. This increase can be explained by the ease with which
 new participants can join a meeting or only attend selected parts of the meeting agenda, and also by 
-a less strongly perceived need to attend every meeting in person, due to either financial
-reasons or other circumstances. In order to better understand
+a less strongly perceived need to attend every meeting in person. Financial
+considerations may also be a factor.
+In order to better understand
 these trends, the IETF started requiring registration for remote participation, still without any registration fee applied.
 
 With the move to fully online meetings in 2020 and 2021, however, there was no longer a
