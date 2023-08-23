@@ -21,13 +21,13 @@ author:
   -
     ins: J. Reed
     name: Jon Reed
-    org: Akamai
+    org: Akamai Technologies
     email: jreed@akamai.com
     
   -
     ins: R. Salz
     name: Rich Salz
-    org: Akamai
+    org: Akamai Technologies
     email: rsalz@akamai.com
 
 
@@ -99,7 +99,10 @@ participation at meetings. Particularly in this context, openness should be seen
 This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
 This document rather states that if remote participation is provided,
-there should always be a free option to make the process as open as possible. Having said that,
+there should always be a free option to make the process as open as possible.
+(One example of implementing this is to have the ability to request a fee
+waiver.)
+Having said that,
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
 and the administrative plenary of an IETF meeting provide an option for remote participation.
 
