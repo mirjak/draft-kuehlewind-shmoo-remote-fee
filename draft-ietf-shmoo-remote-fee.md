@@ -21,13 +21,13 @@ author:
   -
     ins: J. Reed
     name: Jon Reed
-    org: Akamai
+    org: Akamai Technologies
     email: jreed@akamai.com
     
   -
     ins: R. Salz
     name: Rich Salz
-    org: Akamai
+    org: Akamai Technologies
     email: rsalz@akamai.com
 
 
@@ -99,7 +99,10 @@ participation at meetings. Particularly in this context, openness should be seen
 This document does not stipulate that all IETF meetings or related IETF events must have a remote participation option,
 because there could be technical or other reasons why that might not always be possible.
 This document rather states that if remote participation is provided,
-there should always be a free option to make the process as open as possible. Having said that,
+there should always be a free option to make the process as open as possible.
+This document does not specify the implementation details of the free option
+and leaves this to the LLC. At the time of publication an approach to request
+a fee waiver was implemented. Further,
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
 and the administrative plenary of an IETF meeting provide an option for remote participation.
 
@@ -179,7 +182,7 @@ fee imposing a financial barrier. These cases cannot be limited to a certain gro
 participants, nor to any specific other restrictions like the number of meetings previously attended or previous level of involvement.
 The purpose is simply to maximise participation without barriers in order to make the standards process as open as possible.
 
-It is expected that participants who have financial support to use the paid regular registration option 
+It is expected that participants who have financial support to use the paid regular registration option
 will do so. Paying a registration fee is a way for their sponsor to support the sustainability of the IETF. 
 For example, a higher late payment charge can be used to maximise this financial support. 
 However, this document does not comment on the actual payment structure 
