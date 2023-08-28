@@ -100,8 +100,6 @@ This document does not stipulate that all IETF meetings or related IETF events m
 because there could be technical or other reasons why that might not always be possible.
 This document rather states that if remote participation is provided,
 there should always be a free option to make the process as open as possible.
-(One example of implementing this is to have the ability to request a fee
-waiver.)
 This document does not specify the implementation details of the free option and leaves this to the LLC. At the time of publication an approach to request a fee waiver was implemented
 Further,
 it is of course strongly anticipated that at least all working group sessions as well as BoFs
