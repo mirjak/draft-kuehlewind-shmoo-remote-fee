@@ -133,15 +133,15 @@ Meeting fees are a way to distribute these and other operating costs of the IETF
 even though they do not fully offset the costs of either holding the meeting or operating the IETF.
 As such, the intention of this document and the principle stated herein is not to make remote participation
 free for everyone, but to always offer a free remote option that enables remote participation without
-any barriers other than the application for the free registration itself for those where the registration fee
-is a barrier for participation.
+any barriers other than the application for the free registration itself when the registration fee
+is a barrier to participation.
 This principle applies to remote participation only, providing thereby one free option for participation.
-In-person participation is not in scope for this document as the costs considerations 
+In-person participation is not in scope for this document as the cost considerations 
 are broader than just the registration fee.
 
 It is not in scope for this document to make suggestions for changing
-the IETF's fee structure or overall funding model. As defined in the RFC8711
-it is the IETF LLC’s responsibility to manage IETF’s finances and budget and
+the IETF's fee structure or overall funding model. As defined in RFC8711,
+it is the IETF LLC’s responsibility to manage the IETF’s finances and budget and
 as such “[t]he IETF LLC is expected to act responsibly so as to minimize risks
 to IETF participants and to the future of the IETF as a whole, such as financial
 risks.” Further, it is the responsibility of the IETF LLC Board  "to act
@@ -149,18 +149,18 @@ consistently with the documented consensus of the IETF community" {{?RFC8711}},
 taking agreed principles like the one proposed in this document into account.
 
 If unlimited free remote participation is determined to adversely affect 
-financial sustainability of the IETF e.g. if the number of paying participants
+financial sustainability of the IETF, e.g. if the number of paying participants
 or the cost of free participation emerges to be a significant factor,
 the LLC is expected to implement additional measures to manage these costs.
 This document does not and cannot restrict the LLC in its financial responsibility
 and therefore does not impose any limitation on the use of appropriate measures.
 If the LLC decides to do this, they should make their decision and rationale known to the community
 and consider community consultation as specified in Section 4.4 of RFC8711
-in oder “to obtain consensus-based community input on key issues”. 
+in order “to obtain consensus-based community input on key issues”. 
 Further, they should describe the implemented process in sufficient detail for
-participants to make an informed decsion about the use of the free option.
+participants to make an informed decision about the use of the free option.
 
-As discussed in the next section, assessment of eligibility is difficult and consequently any limit
+As discussed in the next section, assessment of eligibility is difficult. Consequently, any limit
 on the number of available free registrations, which likely requires an assessment of eligibility,
 can cause unfairness and negatively impact openness which should be considered seriously in any LLC decision.
 As such, this document defines the principle of free participation but leaves
@@ -193,9 +193,9 @@ as this will permit analysis of the use and change in use over time of the free 
 revealing personal information. 
 
 As the principle defined in this document aims to promote openness and thereby enhance participation,
-an increase in use of free registrations is a success and likely a sign of increased interest and not necessarily a
+an increase in use of free registrations is a success, likely a sign of increased interest, not necessarily a
 sign of misuse, and should not be linked to the number of paid registrations.
-In particular the number of paid registrations may decrease
+In particular, the number of paid registrations may decrease
 due to various reasons other than misuse,
 such as restrictions on travel to physical meetings due to cost savings or environmental reasons, general cost
 savings and lesser focus on standardization work, or simply loss of business interest. Such trends
